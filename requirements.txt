@@ -1,0 +1,5 @@
+fastapi[all]
+motor
+mongoengine
+python-dotenv
+certifi
